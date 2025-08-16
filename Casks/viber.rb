@@ -1,6 +1,6 @@
 cask "viber" do
-  version "1.0.4"
-  sha256 "2ad457b1ea2f6907fff5281cbd7bca7895065f4215153016383f0058449fd88c"
+  version "1.0.5"
+  sha256 "60e46c2b23447e973c35679c2cb453f99b9a9aefcffac2d585651d6e0cbd7927"
 
   url "https://github.com/jspiner/viber/releases/download/v#{version}/Viber-#{version}-arm64.dmg"
   name "Viber"
