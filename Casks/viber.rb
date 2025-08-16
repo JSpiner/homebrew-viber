@@ -2,7 +2,7 @@ cask "viber" do
   version "1.0.5"
   sha256 "60e46c2b23447e973c35679c2cb453f99b9a9aefcffac2d585651d6e0cbd7927"
 
-  url "https://github.com/jspiner/viber/releases/download/v#{version}/Viber-#{version}-arm64.dmg"
+  url "https://github.com/jspiner/viber/releases/download/#{version}/Viber-#{version}-arm64-signed.dmg"
   name "Viber"
   desc "Claude conversation data analyzer for macOS"
   homepage "https://github.com/jspiner/viber"
